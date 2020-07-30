@@ -114,5 +114,3 @@ if __name__ == '__main__':
     app = QApplication([])
     window = main()
     app.exec()
-# 1st run of it... nope. Need to evaluate in exec()
-# 2nd run... IT WORKS!!! And I made it myself! A 10-year-old!
